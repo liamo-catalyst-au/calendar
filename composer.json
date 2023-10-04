@@ -1,8 +1,8 @@
 {
-	"name": "texxasrulez/calendar",
+	"name": "liamo-catalyst-au/calendar",
 	"type": "roundcube-plugin",
-	"description": "CalDav Capable Calendar plugin for Roundcube and Nextcloud",
-	"homepage": "https://github.com/texxasrulez/calendar",
+	"description": "CalDav Capable Calendar plugin for Roundcube and Nextcloud. Forked from texxasrulez/calendar with the aim of bringing it up to date.",
+	"homepage": "https://github.com/liamo-catalyst-au/calendar",
 	"license": "GPL-3.0",
 	"version": "dev",
 	"authors": [
@@ -21,6 +21,11 @@
 			"name": "Aleksander Machniak",
 			"email": "machniak@kolabsys.com",
 			"role": "Developer"
+		},
+		{
+			"name": "Liam O'Callaghan",
+			"email": "liamocallaghan@catalyst-au.net",
+			"role": "Linux Sys Admin"
 		}
 	],
 	"repositories": [
